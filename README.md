@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that give me an opportunity to learn something new.
 - 📫 How to reach me 
       email: vmakdesian@gmail.com
-      linkedin: <a href = "https://www.linkedin.com/in/varoujan-makdesian-9b5857187/"> here <a>
+      linkedin: <a href = "https://www.linkedin.com/in/varoujan-makdesian-9b5857187/">Click Here <a>
 
 <!---
 cobra11793/cobra11793 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
